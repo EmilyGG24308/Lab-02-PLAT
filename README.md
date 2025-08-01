@@ -22,4 +22,5 @@ La aplicación muestra una pantalla inicial con:
 
 ### 2. Pasos
 1. Clona el repositorio:
-
+2. ```bash
+git clone https://github.com/EmilyGG24308/Lab-02-PLAT.git
